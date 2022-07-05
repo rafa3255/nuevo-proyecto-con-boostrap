@@ -1,0 +1,8 @@
+*{margin: 0%;
+padding: 0%;}
+
+
+
+#principal{background-image:url(../img/fondo.jpg) ; height: 18px; background-position:center center;
+    background-attachment: fixed; background-size: cover;
+}
