@@ -1,2 +1,3 @@
-.fondo{background-color:$color-fondo
-    font-family  'Edu TAS Beginner', cursive; }
+.fondo {
+    background-color: map-get($map: $color-fondo, $key ) font-family 'Edu TAS Beginner', cursive;
+}
