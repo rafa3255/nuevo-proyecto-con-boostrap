@@ -2,7 +2,7 @@
   color: rgb(231, 231, 231);
 }
 
-.fondo {
+.boody {
   background-color: rgba(204, 204, 204, 0.87);
   font-family: "Edu TAS Beginner", cursive;
 }
@@ -29,4 +29,5 @@
 
 .letra {
   color: rgb(49, 78, 175);
+  font-family: "Edu TAS Beginner", cursive;
 }/*# sourceMappingURL=style.css.map */
